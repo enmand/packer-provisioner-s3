@@ -1,0 +1,4 @@
+vendor/
+dist/
+releases/
+packer-s3-provisioner
